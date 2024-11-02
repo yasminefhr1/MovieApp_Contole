@@ -2,7 +2,7 @@
 
 Ce projet est une application Android de gestion de films, développée avec Jetpack Compose. L'application permet d'afficher une liste de films, de consulter les détails de chaque film, de les noter et de les ajouter aux favoris. Elle inclut une navigation fluide entre les écrans et une interface utilisateur conforme aux standards de Material Design.
 
-##Jetpack Compose 
+## Jetpack Compose 
 Jetpack Compose est le framework moderne de Google pour le développement d’interfaces utilisateur en Android, introduit en 2020. Il remplace les layouts XML traditionnels par une approche déclarative qui permet de construire des interfaces utilisateur de manière plus intuitive et efficace. Avant l’introduction de Jetpack Compose, les développeurs Android utilisaient principalement XML pour définir l’interface utilisateur, ce qui impliquait de créer des fichiers XML séparés pour chaque activité ou fragment, puis de manipuler ces éléments via du code Java ou Kotlin. Cette méthode était souvent sujette à des erreurs de référence, nécessitant une gestion minutieuse des états et des interactions utilisateur.
 
 
@@ -67,6 +67,6 @@ Un champ de recherche est disponible pour faciliter la navigation dans la liste 
 
 
 
-##Video demo 
+## Video demo 
 
 
